@@ -61,7 +61,7 @@ const Home: React.FC = () => {
           <Link to='/selling' className='text-center bg-blue-600 rounded py-8 text-white text-xl font-[500]'>
             Selling
           </Link>
-          <Link to='/calculation' className='text-center bg-orange-600 rounded py-8 text-white text-xl font-[500]'>
+          <Link to='/staff' className='text-center bg-orange-600 rounded py-8 text-white text-xl font-[500]'>
             Calculation
           </Link>
           <Link to='/report' className='text-center bg-yellow-400 rounded py-8 text-black border border-yellow-500 text-xl font-[500]'>
